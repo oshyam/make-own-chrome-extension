@@ -1,0 +1,10 @@
+{
+    "name": "ShyamiFy",
+    "description": "Demo of a chrome Extension!",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action":{
+        "default_popup":"index.html",
+        "default_icon":"icon.png"
+    }
+  }
